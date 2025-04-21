@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d03d94b410ec134983c46b3beb96057, type: 3}
+  m_Name: New Deck
+  m_EditorClassIdentifier: 
+  AddWeapon: {fileID: 7462209035779956008, guid: efb3b7a940fc6e545a0b2d1ee942a904, type: 3}
+  AddWeaponCount: 7
+  NormalFire: {fileID: 7462209035779956008, guid: 11d3196241a1b704c8fd87ff3a81ea1d, type: 3}
+  NormalFireCount: 7
+  Mana: {fileID: 7462209035779956008, guid: 211279671156dd540a70fadb26184b42, type: 3}
+  ManaCount: 7
+  PiercingDamage: {fileID: 7462209035779956008, guid: 5eb968565eff32b4a916b0460d0d87ae, type: 3}
+  PiercingDamageCount: 7
+  Bomb: {fileID: 7462209035779956008, guid: 83cac2be0074bcc4c9ca57b802146515, type: 3}
+  BombCount: 1
+  Shield: {fileID: 7462209035779956008, guid: 319ed12806d82fd42b357077b0cf9501, type: 3}
+  ShieldCount: 1
+  Freeze: {fileID: 7462209035779956008, guid: ea0fe958b59f22a4cbe4f9387d4cdb91, type: 3}
+  FreezeCount: 7
+  Cleaner: {fileID: 7462209035779956008, guid: a278fac7a1aeda94c8bc91652beef8e1, type: 3}
+  CleanerCount: 7
+  UltimateDamage: {fileID: 7462209035779956008, guid: ae648d9130b309747bdd1621225725b9, type: 3}
+  UltimateDamageCount: 7
+  ManaDamage: {fileID: 7462209035779956008, guid: 1c26cf83ce42cd948980f6500a876519, type: 3}
+  ManaDamageCount: 5
+  TakeTwo: {fileID: 7462209035779956008, guid: 288abf61969a1b74ca24922f03af1301, type: 3}
+  TakeTwoCount: 5
+  Heal: {fileID: 7462209035779956008, guid: 6d4c631cb5ef2314992fe44623c57021, type: 3}
+  HealCount: 3
+  ManaBoost: {fileID: 7462209035779956008, guid: ad4e4d5db4fc89e48a3ab82f3063ff02, type: 3}
+  ManaBoostCount: 3

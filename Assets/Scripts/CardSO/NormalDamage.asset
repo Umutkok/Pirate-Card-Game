@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 371924c392dee454e9f2dd2dca440a4c, type: 3}
+  m_Name: NormalDamage
+  m_EditorClassIdentifier: 
+  cardName: Damage
+  cardImage: {fileID: 21300000, guid: 61de023d3d01d5c4987ce0720f5e461b, type: 3}
+  cardImage1: {fileID: 21300000, guid: 239d64be13e0db3468f5707e7b28ee58, type: 3}
+  cardImage2: {fileID: 21300000, guid: 1927dbfe3bda1ef4a94a17cd7931cf84, type: 3}
+  cardImage3: {fileID: 21300000, guid: 96ddb83c34549d743a7ec5cbce1f14e9, type: 3}
+  cardType: 0
+  manaCost: 5
+  targetType: 1

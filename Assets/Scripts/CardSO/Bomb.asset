@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 371924c392dee454e9f2dd2dca440a4c, type: 3}
+  m_Name: Bomb
+  m_EditorClassIdentifier: 
+  cardName: Bomb
+  cardImage: {fileID: 0}
+  cardImage1: {fileID: 21300000, guid: c790da1c7536934469d9089b8fa779e2, type: 3}
+  cardImage2: {fileID: 21300000, guid: 6e4ffed740aa52241952a9a9db532cac, type: 3}
+  cardImage3: {fileID: 21300000, guid: 2fa391197b33be54cac8c515ecdd5db9, type: 3}
+  cardType: 11
+  manaCost: 10
+  targetType: 0

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9d03d94b410ec134983c46b3beb96057
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AddWeapon: {fileID: 683926925464994596, guid: 2964250e286df7c499a3f201eb7d13e2, type: 3}
+  - NormalFire: {fileID: 7462209035779956008, guid: ee790c9808ec3954f800f1308d8206af, type: 3}
+  - Mana: {fileID: 7462209035779956008, guid: 8664dc749a5da1e479aa2f97a5729026, type: 3}
+  - PiercingDamage: {fileID: 5729338844079662862, guid: c2b8c6b9bcb08d84eacfc6d5751cb2fc, type: 3}
+  - Bomb: {fileID: 6020656131217995072, guid: 33c7302782c4dbd4a90e4d1f71d3a556, type: 3}
+  - Shield: {fileID: 214955597904640722, guid: 88d531c74451e7942b1aec90fbc5d851, type: 3}
+  - Freeze: {fileID: 4277427608987198102, guid: d84944deecfb75141a5b6a76b274dbb6, type: 3}
+  - Cleaner: {fileID: 4678521489545885374, guid: a3df2330bf0fe67489d1671093f6a603, type: 3}
+  - UltimateDamage: {fileID: 4550587830314570403, guid: 9b56d7a5805402c49aaefe6ece252449, type: 3}
+  - ManaDamage: {fileID: 7992939048826198568, guid: ac3ce8985a5d97c49936d591ca743e92, type: 3}
+  - TakeTwo: {fileID: 6102207281783252905, guid: 0226eb0ebcde26d4fa66437b1fd83098, type: 3}
+  - Heal: {fileID: 115214920914286567, guid: 80f647e982161b24082871435cfc8b26, type: 3}
+  - ManaBoost: {fileID: 3759106891956356618, guid: 6d65f374e5ceab24582c6b69f8d28628, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
